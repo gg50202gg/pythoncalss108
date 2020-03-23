@@ -15,5 +15,5 @@ def main():
 if __name__ == "__main__":
     while True:
         main()
-        if "Y" == input("繼續?(Y/N)"):
+        if "Y" == input("Continue?(Y/N)"):
             break
